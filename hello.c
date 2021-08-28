@@ -10,6 +10,8 @@
 
     printf("My name is Sarah Weber.\n");
     printf("My major is Computer Science!!\n");
+    printf("My name is Lilli Tobiasson. \n");
+    printf("My major is computer science!!\n");
 
     return 0;
 }
